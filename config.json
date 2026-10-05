@@ -1,0 +1,241 @@
+{
+  "profile": {
+    "title": "Data Engineering & Science Tracker",
+    "subtitle": "Chicago",
+    "emoji": "📊"
+  },
+  "keywords": {
+    "include": [
+      "data engineer",
+      "data engineering",
+      "data scientist",
+      "data science",
+      "machine learning engineer",
+      "ml engineer",
+      "statistical analyst",
+      "data developer",
+      "data infrastructure",
+      "spark developer",
+      "pyspark developer",
+      "databricks engineer",
+      "cloud data engineer",
+      "azure data engineer",
+      "big data engineer",
+      "bi engineer",
+      "business intelligence engineer",
+      "data platform engineer"
+    ],
+    "exclude": [
+      "intern",
+      "internship",
+      "postdoc",
+      "co-op",
+      "trainee",
+      "manager",
+      "director",
+      "vp",
+      "lead",
+      "principal",
+      "head of",
+      "defense",
+      "military",
+      "government",
+      "clearance",
+      "cleared",
+      "polygraph",
+      "ts/sci",
+      "secret clearance"
+    ]
+  },
+  "search_terms": {
+    "linkedin": [
+      "Data Engineer",
+      "Data Scientist",
+      "Machine Learning Engineer",
+      "Azure Data Engineer",
+      "Databricks Engineer",
+      "PySpark Developer",
+      "Statistical Analyst",
+      "Big Data Engineer",
+      "Cloud Data Engineer",
+      "BI Engineer",
+      "Business Intelligence Engineer",
+      "Data Infrastructure Engineer",
+      "Data Platform Engineer"
+    ],
+    "indeed": [
+      "Data Engineer",
+      "Data Scientist",
+      "Analytics Engineer",
+      "Azure Data",
+      "PySpark",
+      "Databricks",
+      "Big Data"
+    ],
+    "glassdoor": [
+      "Data Engineer",
+      "Data Scientist",
+      "Analytics Engineer",
+      "Azure Data",
+      "PySpark",
+      "Databricks",
+      "Big Data"
+    ],
+    "ziprecruiter": [
+      "Data Engineer",
+      "Data Scientist",
+      "Analytics Engineer",
+      "Azure Data",
+      "PySpark",
+      "Databricks",
+      "Big Data"
+    ],
+    "google_jobs": [
+      "Data Engineer",
+      "Data Scientist",
+      "Analytics Engineer",
+      "Azure Data",
+      "PySpark",
+      "Databricks",
+      "Big Data"
+    ],
+    "hiring_cafe": [
+      "Data Engineer",
+      "Data Scientist",
+      "Analytics Engineer",
+      "Azure Data",
+      "PySpark",
+      "Databricks",
+      "Big Data"
+    ]
+  },
+  "locations": {
+    "linkedin": [
+      {
+        "name": "Chicago",
+        "location": "Chicago, Illinois, United States",
+        "geoId": ""
+      }
+    ],
+    "indeed": [
+      {
+        "location": "Chicago, IL",
+        "country": "USA"
+      }
+    ],
+    "glassdoor": [
+      {
+        "location": "Chicago, IL",
+        "country": "USA"
+      }
+    ],
+    "ziprecruiter": [
+      {
+        "location": "Chicago, IL",
+        "country": "USA"
+      }
+    ],
+    "google_jobs": [
+      {
+        "location": "Chicago, IL",
+        "country": "USA"
+      }
+    ],
+    "hiring_cafe": [
+      {
+        "location": "United States"
+      }
+    ]
+  },
+  "google_jobs": {
+    "queries": [],
+    "serpapi_api_key": "",
+    "oxylabs_username": "",
+    "oxylabs_password": ""
+  },
+  "hiring_cafe": {
+    "max_pages": 3
+  },
+  "employers": {
+    "priority": [],
+    "exclude": [
+      "lockheed martin",
+      "raytheon",
+      "northrop grumman",
+      "general dynamics",
+      "bae systems",
+      "l3harris",
+      "leidos",
+      "booz allen",
+      "caci",
+      "saic",
+      "department of defense",
+      "us army",
+      "us navy",
+      "us air force",
+      "huntington ingalls",
+      "mitre",
+      "cybercoders",
+      "revature",
+      "staffing",
+      "recruiting"
+    ]
+  },
+  "priority_topics": {
+    "terms": [
+      [
+        "Databricks & Spark",
+        "\\b(databricks|spark|pyspark)\\b"
+      ],
+      [
+        "Azure Cloud",
+        "\\b(azure|adls|synapse)\\b"
+      ],
+      [
+        "SQL & Databases",
+        "\\b(sql|postgresql|postgres|rdbms|database)\\b"
+      ],
+      [
+        "Statistics & ML",
+        "\\b(statistics|machine learning|ml|polars|r)\\b"
+      ],
+      [
+        "PyTorch & Deep Learning",
+        "\\b(pytorch|deep learning)\\b"
+      ],
+      [
+        "SAS Programming",
+        "\\b(sas)\\b"
+      ],
+      [
+        "Bilingual Spanish",
+        "\\b(spanish|bilingual)\\b"
+      ]
+    ]
+  },
+  "role_categories": {
+    "terms": [
+      [
+        "Data Engineering",
+        "\\b(data engineer|data developer|data pipeline|big data|spark|databricks)\\b"
+      ],
+      [
+        "Cloud & Infrastructure",
+        "\\b(cloud engineer|platform engineer|infrastructure|azure)\\b"
+      ],
+      [
+        "Analytics Engineering",
+        "\\b(analytics engineer|bi engineer|business intelligence)\\b"
+      ],
+      [
+        "Data Science & ML",
+        "\\b(data scientist|machine learning|ml engineer|pytorch)\\b"
+      ]
+    ]
+  },
+  "notify": {
+    "min_fit": 75
+  }
+}
+
+```
