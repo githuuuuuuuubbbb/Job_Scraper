@@ -1,241 +1,197 @@
 {
+  "_README": "ONE config file drives the whole tracker (scraper + dashboard). Edit it by hand, or generate it from your CV using docs/cv-to-config-prompt.md. After editing, commit it and re-run the workflows. All matching is case-insensitive substring on the JOB TITLE unless noted.",
+
   "profile": {
-    "title": "Data Engineering & Science Tracker",
-    "subtitle": "Chicago",
-    "emoji": "📊"
+    "title": "Data Engineering Job Tracker",
+    "subtitle": "Chicago, IL",
+    "emoji": "🛠️"
   },
+
   "keywords": {
+    "_comment": "A job TITLE is kept if it contains any of these. Use full words; multi-word phrases match as substrings.",
     "include": [
-      "data engineer",
-      "data engineering",
-      "data scientist",
-      "data science",
-      "machine learning engineer",
-      "ml engineer",
-      "statistical analyst",
-      "data developer",
-      "data infrastructure",
-      "spark developer",
-      "pyspark developer",
-      "databricks engineer",
-      "cloud data engineer",
-      "azure data engineer",
-      "big data engineer",
-      "bi engineer",
-      "business intelligence engineer",
-      "data platform engineer"
+      "data engineer", "data engineering", "analytics engineer", "analytics engineering",
+      "big data engineer", "cloud data engineer", "azure data engineer", "databricks",
+      "spark engineer", "pyspark", "etl developer", "etl engineer", "elt engineer",
+      "data pipeline", "data platform engineer", "data infrastructure engineer",
+      "data warehouse engineer", "data warehouse developer", "data integration engineer",
+      "database engineer", "database developer",
+      "data quality engineer", "data reliability engineer", "data operations engineer",
+      "dataops engineer", "lakehouse",
+      "machine learning engineer", "ml engineer", "mlops engineer", "machine learning operations",
+      "ai engineer", "applied scientist",
+      "data scientist", "data science", "statistician", "statistical analyst",
+      "applied statistician", "quantitative analyst", "quantitative researcher",
+      "data analyst", "business intelligence engineer", "bi engineer", "bi developer",
+      "analytics developer", "insights analyst", "decision scientist", "product analyst",
+      "research data scientist", "biostatistician"
     ],
+    "_exclude_comment": "Titles containing any of these are dropped (junior roles, off-field roles, and government / defense / military / clearance roles).",
     "exclude": [
-      "intern",
-      "internship",
-      "postdoc",
-      "co-op",
-      "trainee",
-      "manager",
-      "director",
-      "vp",
-      "lead",
-      "principal",
-      "head of",
-      "defense",
-      "military",
-      "government",
-      "clearance",
-      "cleared",
-      "polygraph",
-      "ts/sci",
-      "secret clearance"
-    ]
+      "intern", "interns", "internship", "co-op", "coop", "trainee", "apprentice",
+      "work-study", "volunteer", "fellowship", "research assistant", "teaching assistant",
+      "undergraduate", "postdoc", "postdoctoral",
+      "security clearance", "clearance", "ts/sci", "top secret", "secret clearance",
+      "polygraph", "cleared", "defense", "defence", "military", "dod ", "department of defense",
+      "intelligence analyst", "weapons", "missile", "army", "navy", "air force",
+      "mechanical engineer", "civil engineer", "electrical engineer", "hardware engineer",
+      "network engineer", "technician", "help desk"
+    ],
+    "_fuzzy_comment": "Optional fuzzy pre-filter for LinkedIn title matching. When both fuzzy_seniority and fuzzy_domain are non-empty, role_is_relevant() uses these instead of the exact-phrase keywords.include filter. Leave all three empty to use keyword-only matching.",
+    "fuzzy_seniority": [],
+    "fuzzy_domain": [],
+    "fuzzy_exclude": []
   },
+
   "search_terms": {
+    "_comment": "Queries sent to the job boards' search boxes. Broader than 'keywords' (which then filters the titles).",
     "linkedin": [
-      "Data Engineer",
-      "Data Scientist",
-      "Machine Learning Engineer",
-      "Azure Data Engineer",
-      "Databricks Engineer",
-      "PySpark Developer",
-      "Statistical Analyst",
-      "Big Data Engineer",
-      "Cloud Data Engineer",
-      "BI Engineer",
-      "Business Intelligence Engineer",
-      "Data Infrastructure Engineer",
-      "Data Platform Engineer"
+      "data engineer", "data engineer II", "data engineer pyspark", "databricks data engineer",
+      "azure data engineer", "analytics engineer", "big data engineer", "etl engineer",
+      "data pipeline engineer", "data platform engineer", "data quality engineer",
+      "sql data engineer", "postgresql data engineer", "machine learning engineer",
+      "mlops engineer", "data scientist", "applied statistician", "statistician",
+      "business intelligence engineer", "quantitative analyst",
+      "aviation data engineer", "geospatial data engineer"
     ],
     "indeed": [
-      "Data Engineer",
-      "Data Scientist",
-      "Analytics Engineer",
-      "Azure Data",
-      "PySpark",
-      "Databricks",
-      "Big Data"
+      "data engineer", "azure data engineer", "databricks", "analytics engineer",
+      "machine learning engineer", "data scientist", "statistician", "etl developer"
     ],
     "glassdoor": [
-      "Data Engineer",
-      "Data Scientist",
-      "Analytics Engineer",
-      "Azure Data",
-      "PySpark",
-      "Databricks",
-      "Big Data"
+      "data engineer", "azure data engineer", "databricks", "analytics engineer",
+      "machine learning engineer", "data scientist", "statistician", "etl developer"
     ],
     "ziprecruiter": [
-      "Data Engineer",
-      "Data Scientist",
-      "Analytics Engineer",
-      "Azure Data",
-      "PySpark",
-      "Databricks",
-      "Big Data"
+      "data engineer", "azure data engineer", "databricks", "analytics engineer",
+      "machine learning engineer", "data scientist", "statistician", "etl developer"
     ],
     "google_jobs": [
-      "Data Engineer",
-      "Data Scientist",
-      "Analytics Engineer",
-      "Azure Data",
-      "PySpark",
-      "Databricks",
-      "Big Data"
+      "data engineer", "azure data engineer", "databricks", "analytics engineer",
+      "machine learning engineer", "data scientist", "statistician", "etl developer"
     ],
     "hiring_cafe": [
-      "Data Engineer",
-      "Data Scientist",
-      "Analytics Engineer",
-      "Azure Data",
-      "PySpark",
-      "Databricks",
-      "Big Data"
+      "data engineer", "azure data engineer", "databricks", "analytics engineer",
+      "machine learning engineer", "data scientist", "statistician", "pyspark"
+    ],
+    "workday": [
+      "data engineer", "analytics engineer", "machine learning engineer",
+      "data scientist", "databricks", "statistician"
     ]
   },
+
   "locations": {
+    "_comment": "LinkedIn needs a geoId (leave blank to let LinkedIn resolve the text). JobSpy-backed boards such as Indeed, Glassdoor, ZipRecruiter, and Google Jobs need a location + country. HiringCafe currently uses its public US SEO route; locations.hiring_cafe is kept for compatibility. The map auto-fits to wherever the jobs are.",
     "linkedin": [
-      {
-        "name": "Chicago",
-        "location": "Chicago, Illinois, United States",
-        "geoId": ""
-      }
+      { "name": "Chicago", "location": "Chicago, Illinois, United States", "geoId": "" },
+      { "name": "Chicago Area", "location": "Chicago, Illinois Metropolitan Area", "geoId": "" }
     ],
     "indeed": [
-      {
-        "location": "Chicago, IL",
-        "country": "USA"
-      }
+      { "location": "Chicago, IL", "country": "USA" }
     ],
     "glassdoor": [
-      {
-        "location": "Chicago, IL",
-        "country": "USA"
-      }
+      { "location": "Chicago, IL", "country": "USA" }
     ],
     "ziprecruiter": [
-      {
-        "location": "Chicago, IL",
-        "country": "USA"
-      }
+      { "location": "Chicago, IL", "country": "USA" }
     ],
     "google_jobs": [
-      {
-        "location": "Chicago, IL",
-        "country": "USA"
-      }
+      { "location": "Chicago, IL", "country": "USA" }
     ],
     "hiring_cafe": [
-      {
-        "location": "United States"
+      { "location": "United States" }
+    ],
+    "_linkedin_partitions_comment": "Optional. Used by --linkedin-emit-matrix / --linkedin-backfill-partition for parallel backfill. Leave empty to use single-run backfill (--linkedin-backfill).",
+    "linkedin_partitions": {
+      "states": [],
+      "high_volume": {
+        "locations": [],
+        "day_slices": true
       }
+    }
+  },
+
+  "location_filter": {
+    "_comment": "Case-insensitive substrings matched against a job's location text. Used to post-filter boards that don't support geo-scoping at the API level (e.g. the curated direct-ATS sweep). Keep this in sync with your locations.* entries above.",
+    "terms": [
+      "chicago", ", il", "illinois", "hybrid",
+      "evanston", "oak brook", "naperville", "schaumburg", "rosemont", "oak park",
+      "downers grove", "lisle", "itasca", "deerfield", "northbrook", "skokie",
+      "arlington heights", "lombard", "elmhurst", "aurora, il", "joliet"
     ]
   },
+
   "google_jobs": {
+    "_comment": "Optional exact Google Jobs queries. Leave empty to auto-build queries from search_terms.google_jobs and locations.google_jobs. If the free JobSpy path is blocked, set SERPAPI_API_KEY or OXYLABS_USERNAME/OXYLABS_PASSWORD as GitHub Actions secrets for an API fallback.",
     "queries": [],
     "serpapi_api_key": "",
     "oxylabs_username": "",
     "oxylabs_password": ""
   },
+
+  "jobspy": {
+    "_comment": "Optional. Prefer JOBSPY_PROXIES as a GitHub Actions secret/env var for private proxy credentials. Use only if JobSpy-backed boards are blocked.",
+    "proxies": [],
+    "user_agent": ""
+  },
+
   "hiring_cafe": {
+    "_comment": "Uses HiringCafe's public SSR /jobs/<query> pages. max_pages caps SEO pagination per query; the public route currently defaults to United States.",
     "max_pages": 3
   },
+
   "employers": {
-    "priority": [],
+    "_priority_comment": "Optional. Companies worth a daily 'priority' digest even on a quiet day (case-insensitive substring match on the company name). Leave [] to disable.",
+    "priority": [
+      "Databricks", "Microsoft",
+      "Grubhub", "Groupon",
+      "Allstate", "Discover Financial", "United Airlines", "Mondelez", "Kraft Heinz",
+      "Walgreens", "Hyatt", "Cars.com", "Zebra Technologies"
+    ],
+    "_exclude_comment": "Optional. Drop roles from these companies even if the title matches (case-insensitive substring). Used here to remove government contracting / defense / military employers.",
     "exclude": [
-      "lockheed martin",
-      "raytheon",
-      "northrop grumman",
-      "general dynamics",
-      "bae systems",
-      "l3harris",
-      "leidos",
-      "booz allen",
-      "caci",
-      "saic",
-      "department of defense",
-      "us army",
-      "us navy",
-      "us air force",
-      "huntington ingalls",
-      "mitre",
-      "cybercoders",
-      "revature",
-      "staffing",
-      "recruiting"
+      "lockheed", "raytheon", "rtx", "northrop", "general dynamics", "l3harris", "bae systems",
+      "booz allen", "leidos", "saic", "science applications international", "caci", "peraton",
+      "mantech", "parsons", "anduril", "palantir", "sev1tech", "gdit",
+      "huntington ingalls", "textron", "leonardo drs", "kbr", "maximus", "perspecta",
+      "defense", "defence", "department of defense", "u.s. army", "u.s. navy", "air force",
+      "military", "national security"
     ]
   },
+
   "priority_topics": {
+    "_comment": "Optional. Roles touching these get a gold ★ + a 'Priority topics' filter on the dashboard. [name, regex] pairs.",
     "terms": [
-      [
-        "Databricks & Spark",
-        "\\b(databricks|spark|pyspark)\\b"
-      ],
-      [
-        "Azure Cloud",
-        "\\b(azure|adls|synapse)\\b"
-      ],
-      [
-        "SQL & Databases",
-        "\\b(sql|postgresql|postgres|rdbms|database)\\b"
-      ],
-      [
-        "Statistics & ML",
-        "\\b(statistics|machine learning|ml|polars|r)\\b"
-      ],
-      [
-        "PyTorch & Deep Learning",
-        "\\b(pytorch|deep learning)\\b"
-      ],
-      [
-        "SAS Programming",
-        "\\b(sas)\\b"
-      ],
-      [
-        "Bilingual Spanish",
-        "\\b(spanish|bilingual)\\b"
-      ]
+      ["Databricks / PySpark", "databricks|pyspark|\\bspark\\b|lakehouse|delta lake"],
+      ["Azure", "\\bazure\\b|azure data factory|synapse|microsoft fabric"],
+      ["PostgreSQL / SQL", "postgres|\\bsql\\b|database|data warehouse"],
+      ["ML in production", "mlops|machine learning engineer|ml engineer|ml platform|model deployment"],
+      ["Aviation / Geospatial", "aviation|airline|aerospace|flight|aircraft|geospatial|telemetry"],
+      ["Statistics", "statistic|biostatistic|quantitative|experimentation|causal"]
     ]
   },
+
   "role_categories": {
+    "_comment": "Dashboard 'Role' filter buckets, applied top-to-bottom to each title. [name, regex] pairs.",
     "terms": [
-      [
-        "Data Engineering",
-        "\\b(data engineer|data developer|data pipeline|big data|spark|databricks)\\b"
-      ],
-      [
-        "Cloud & Infrastructure",
-        "\\b(cloud engineer|platform engineer|infrastructure|azure)\\b"
-      ],
-      [
-        "Analytics Engineering",
-        "\\b(analytics engineer|bi engineer|business intelligence)\\b"
-      ],
-      [
-        "Data Science & ML",
-        "\\b(data scientist|machine learning|ml engineer|pytorch)\\b"
-      ]
+      ["Data Engineering", "data engineer|etl|elt|data pipeline|data platform|data infrastructure|databricks|pyspark|big data|dataops|lakehouse"],
+      ["Analytics Engineering", "analytics engineer|analytics developer|data modeler|dbt"],
+      ["ML / AI Engineering", "machine learning engineer|\\bml engineer|mlops|ai engineer|applied scientist|machine learning operations"],
+      ["Data Science", "data scien|decision scien|research scien"],
+      ["Statistics / Quant", "statistic|biostatistic|quantitative|\\bquant\\b"],
+      ["Data Analyst / BI", "data analyst|business intelligence|\\bbi\\b|insights|product analyst|reporting analyst"],
+      ["Database / Warehouse", "database|data warehouse|sql developer|dba"],
+      ["Software / Cloud", "software engineer|backend|cloud engineer|platform engineer|devops|site reliability"]
     ]
   },
+
   "notify": {
-    "min_fit": 75
+    "_comment": "Pushover phone alerts (optional; needs PUSHOVER_TOKEN/USER secrets). Notify when a new role is a priority-topic OR scores at/above min_fit.",
+    "min_fit": 75,
+    "weekly_digest": {
+      "_comment": "Optional weekly Pushover brief. Prefer enabling via the WEEKLY_DIGEST_PUSHOVER repository variable so forks stay quiet by default.",
+      "enabled": false,
+      "days": 7
+    }
   }
 }
-
-```
