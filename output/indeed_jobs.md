@@ -1,6 +1,11 @@
 # 🟦 Indeed — Data Engineering Roles
-*Last updated: 2026-10-06 16:58 UTC*
+*Last updated: 2026-10-06 17:55 UTC*
 
-**0 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 4 total in last 24h
 
-No new roles since the last run.
+### [Data Scientist, Consultant (Utilities)](https://www.indeed.com/viewjob?jk=c95884cf4161d7e3) — Guidehouse
+- 📍 **Location:** Chicago, IL, US
+- 💰 **Salary:** $89k–$148k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-06
