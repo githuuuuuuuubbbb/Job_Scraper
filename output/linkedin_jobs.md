@@ -1,13 +1,14 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-06 17:38 UTC*
+*Last updated: 2026-10-06 18:55 UTC*
 
-**2 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4474997083/) — Aldridge Electric
-- 📍 **Location:** Libertyville, IL
-- 💰 **Salary:** $120,000 - $150,000
+### [Enterprise Data Engineer](https://www.linkedin.com/jobs/view/4464659408/) — Jenner & Block
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $130,000 to $180,000
 - 🕒 **Posted:** 2026-10-06
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4458534853/) — Marmon Foodservice Technologies
-- 📍 **Location:** Carol Stream, IL
+### [Data Engineer II](https://www.linkedin.com/jobs/view/4476349577/) — Gilbane Building
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $140,000.00-$170,000.00
 - 🕒 **Posted:** 2026-10-06
