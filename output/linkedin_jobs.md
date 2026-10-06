@@ -1,14 +1,19 @@
-# 🔥 LinkedIn — Environmental / Toxicology Roles
-*Last updated: 2026-10-05 22:18 UTC*
+# 🔥 LinkedIn — Data Engineering Roles
+*Last updated: 2026-10-06 01:29 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Senior Scientist Toxicology](https://www.linkedin.com/jobs/view/4475883067/) — The Clorox Company
-- 📍 **Location:** Pleasanton, CA
-- 💰 **Salary:** $109,400 - $210,000
-- 🕒 **Posted:** 2026-10-05
+### [Tax Innovation - AI Engineer - Director](https://www.linkedin.com/jobs/view/4476108195/) — PwC
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $150,000 - $438,000
+- 🕒 **Posted:** 2026-10-06
 
-### [Operational Environmental Compliance Project Manager (Hybrid)](https://www.linkedin.com/jobs/view/4475867676/) — Tetra Tech
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $95,000-$130,000
-- 🕒 **Posted:** 2026-10-05
+### [Data Scientist Sr. Manager - Consumer Markets](https://www.linkedin.com/jobs/view/4476107246/) — PwC
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $91,000 - $321,500
+- 🕒 **Posted:** 2026-10-06
+
+### [Data Scientist (Masters)](https://www.linkedin.com/jobs/view/4476104941/) — Alignerr
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $40.00/hr - $80.00/hr
+- 🕒 **Posted:** 2026-10-06
