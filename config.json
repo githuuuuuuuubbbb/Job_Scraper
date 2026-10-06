@@ -30,7 +30,7 @@
     "exclude": [
       "intern", "interns", "internship", "co-op", "coop", "trainee", "apprentice",
       "work-study", "volunteer", "fellowship", "research assistant", "teaching assistant",
-      "undergraduate", "postdoc", "postdoctoral",
+      "undergraduate", "postdoc", "postdoctoral", "contract", "contractor", "senior", "lead", "manager", "director", "sr",
       "security clearance", "clearance", "ts/sci", "top secret", "secret clearance",
       "polygraph", "cleared", "defense", "defence", "military", "dod ", "department of defense",
       "intelligence analyst", "weapons", "missile", "army", "navy", "air force",
