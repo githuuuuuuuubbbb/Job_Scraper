@@ -1,14 +1,9 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-07 18:46 UTC*
+*Last updated: 2026-10-07 19:40 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 3 total in last 1h
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4476794407/) — Robert Half
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $35.00/hr - $45.00/hr
-- 🕒 **Posted:** 2026-10-07
-
-### [Data Analyst - Business Intelligence](https://www.linkedin.com/jobs/view/4476905417/) — DRW
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $100,000 to $130,000
+### [Financial Data Analyst](https://www.linkedin.com/jobs/view/4475488050/) — Michael Best
+- 📍 **Location:** Greater Chicago Area
+- 💰 **Salary:** $60,000 - $85,000
 - 🕒 **Posted:** 2026-10-07
