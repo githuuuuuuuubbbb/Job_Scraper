@@ -1,23 +1,17 @@
 # 🟦 Indeed — Data Engineering Roles
-*Last updated: 2026-10-07 16:01 UTC*
+*Last updated: 2026-10-07 17:07 UTC*
 
-**3 new role(s)** since last run · 7 total in last 24h
+**2 new role(s)** since last run · 8 total in last 24h
 
-### [Data Engineer 4](https://www.indeed.com/viewjob?jk=ac695015f6e52803) — Capital One
+### [Data Science Engineer](https://www.indeed.com/viewjob?jk=94a1a6eaf40c260e) — Predictive Sales A.I.
 - 📍 **Location:** Chicago, IL, US
-- 💰 **Salary:** $179k–$205k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
-
-### [Principal Data Scientist](https://www.indeed.com/viewjob?jk=b5ee85384873284f) — Oasis Health Partners
-- 📍 **Location:** Chicago, IL, US
-- **Work mode:** Remote in-state eligible
 - 🕒 **Posted:** 2026-10-07
 
-### [Data Scientist](https://www.indeed.com/viewjob?jk=90063f82121075e6) — TransUnion
+### [Staff Engineer II, TSG Data Engineering](https://www.indeed.com/viewjob?jk=a7278126f1f2e337) — Bain & Company
 - 📍 **Location:** Chicago, IL, US
-- 💰 **Salary:** $68k–$112k/yr
+- 💰 **Salary:** $135k–$186k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-09-19
