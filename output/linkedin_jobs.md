@@ -1,9 +1,8 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-07 03:39 UTC*
+*Last updated: 2026-10-07 15:49 UTC*
 
 **1 new role(s)** since last run · 1 total in last 1h
 
-### [Data Scientist](https://www.linkedin.com/jobs/view/4475161131/) — TransUnion
+### [AI Data Engineer](https://www.linkedin.com/jobs/view/4475449440/) — Hirewell
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $67,500.00 - $112,500 annually
 - 🕒 **Posted:** 2026-10-07
