@@ -1,14 +1,14 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-07 21:40 UTC*
+*Last updated: 2026-10-07 22:37 UTC*
 
 **2 new role(s)** since last run · 5 total in last 1h
 
-### [Principal Data Engineer, AI Enablement](https://www.linkedin.com/jobs/view/4475701318/) — AbbVie
-- 📍 **Location:** North Chicago, IL
-- 💰 **Salary:** $124,500.00/yr - $236,500.00/yr
+### [Data Engineer - Infrastructure](https://www.linkedin.com/jobs/view/4449169867/) — IMC Trading
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $175,000 - $225,000 USD
 - 🕒 **Posted:** 2026-10-07
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4476935053/) — Stripe
+### [Data Analyst - IT III](https://www.linkedin.com/jobs/view/4476945196/) — PTR Global
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $126,600 - $235,300
+- 💰 **Salary:** $46- $48
 - 🕒 **Posted:** 2026-10-07
