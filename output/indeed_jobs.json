@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-07 20:57 UTC",
+  "scraped_at": "2026-10-07 21:57 UTC",
   "total": 8,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "AbbVie",
@@ -148,24 +148,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "AbbVie",
-      "title": "Principal Data Engineer, AI Enablement",
-      "location": "North Chicago, IL, US",
-      "url": "https://www.indeed.com/viewjob?jk=06b6e66be51c0543",
-      "direct_url": "https://jobs.smartrecruiters.com/AbbVie/3743990015971305-principal-data-engineer-ai-enablement",
-      "company_url": "https://www.indeed.com/cmp/Abbvie",
-      "date_posted": "2026-10-07",
-      "description": "**Company Description**\n\n**About AbbVie**\n\nAbbVie's mission is to discover and deliver innovative medicines and solutions that solve serious health issues today and address the medical challenges of tomorrow. We strive to have a remarkable impact on people's lives across several key therapeutic areas including immunology, oncology, and neuroscience - and products and services in our Allergan Aesthetics portfolio. For more information about AbbVie, please visit us at www.abbvie.com. Follow @abbvie on LinkedIn, Facebook, Instagram, X and YouTube.\n\n **Job Description**\n\nThe Principal Data Engineer, AI Enablement will design, develop, and maintain data solutions that drive the advancement and enablement of our AI and machine learning use cases. In this role, you will collaborate closely with data engineers, data scientists, architects, and business analysts to advance the core data capabilities, deliver projects, foster technological innovation, and promote continuous improvement.\n\n**Responsibilities:**\n\n* Collaborate with a cross-functional team of engineers, architects, data scientists, business system analysts and product owners to understand requirements and deliver fit-for-purpose solutions.\n* Design, develop, and maintain scalable AI-ready data solutions for diverse data sets to support pharma value chain.\n* Design, develop, and maintain solutions involving the integration of LLMs (such as GPT or Claude or similar technologies) for data mining, knowledge extraction, and automation of data-driven insights.\n* Design, develop, and maintain solutions to operationalize machine learning models, including model deployment, monitoring, and lifecycle management.\n* Capture and interpret user requirements into expressive data models that enable graph analytics, semantic reasoning, and GenAI integration.\n* Research and recommend appropriate tools, frameworks, and platforms for graph databases, vector stores, and large language models integration including agent-based solutions.\n* Provide technical leadership, act as a subject matter expert and advisor to partners on the feasibility and impact of emerging technologies in the AI data space.\n* Ensure compliance with applicable AbbVie software development, lifecycle policies, and procedures.\n\n  \n**Qualifications**\n\n**Required:**\n\n* Bachelor's Degree with 8 years of experience; OR Master's Degree with 7 years of experience; OR PhD with 3 years of related work experience and a strong understanding of specified functional area.\n* Must have experience with MLOps, LLM integration, Data Agents, Agentic Memory and Graph RAG systems, text mining, and unstructured data processing.\n* Experience designing and building data pipelines, ETL/ELT processes, and data models.\n* Proficiency with Python, SQL, and distributed data processing frameworks such as Spark.\n* Experience with CI/CD practices, data quality controls, governance, and security considerations.\n\n**Preferred:**\n\n* Degree in Computer Science or related discipline preferred. Advanced degree preferred.\n* Experience with Neo4j & Elasticsearch database technologies is preferred.\n* AWS experience is preferred.\n\n  \n**Additional Information**\n\nApplicable only to applicants applying to a position in any location with pay disclosure requirements under state or local law:\n\n* The compensation range described below is the range of possible base pay compensation that the Company believes in good faith it will pay for this role at the time of this posting based on the job grade for this position. Individual compensation paid within this range will depend on many factors including geographic location, and we may ultimately pay more or less than the posted range. This range may be modified in the future.\n* We offer a comprehensive package of benefits including paid time off (vacation, holidays, sick), medical/dental/vision insurance and 401(k) to eligible employees.\n* This job is eligible to participate in our long-term incentive programs.\n\nNote: No amount of pay is considered to be wages or compensation until such amount is earned, vested, and determinable. The amount and availability of any bonus, commission, incentive, benefits, or any other form of compensation and benefits that are allocable to a particular employee remains in the Company's sole and absolute discretion unless and until paid and may be modified at the Company’s sole and absolute discretion, consistent with applicable law.\n\nAbbVie is an equal opportunity employer and is committed to operating with integrity, driving innovation, transforming lives and serving our community. Equal Opportunity Employer/Veterans/Disabled.\n\nUS & Puerto Rico only - to learn more, visit https://www.abbvie.com/join-us/equal-employment-opportunity-employer.html\n\nUS & Puerto Rico applicants seeking a reasonable accommodation, click here to learn more:\n\nhttps://www.abbvie.com/join-us/reasonable-accommodations.html",
-      "salary": "$124k–$236k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
