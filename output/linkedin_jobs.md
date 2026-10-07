@@ -1,13 +1,9 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-07 02:39 UTC*
+*Last updated: 2026-10-07 03:39 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Network Fulfilment Data Scientist](https://www.linkedin.com/jobs/view/4475157070/) — Ulta Beauty
-- 📍 **Location:** Bolingbrook, IL
-- 💰 **Salary:** $90,800.00 - $126,000.00
-- 🕒 **Posted:** 2026-10-07
-
-### [CPGR Growth Leader - AI Engineering, Strategic Accounts](https://www.linkedin.com/jobs/view/4469619925/) — Fractal
+### [Data Scientist](https://www.linkedin.com/jobs/view/4475161131/) — TransUnion
 - 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $67,500.00 - $112,500 annually
 - 🕒 **Posted:** 2026-10-07
