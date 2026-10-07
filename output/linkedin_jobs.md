@@ -1,16 +1,14 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-07 16:44 UTC*
+*Last updated: 2026-10-07 17:42 UTC*
 
-**3 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 5 total in last 1h
 
-### [Quantitative Analyst](https://www.linkedin.com/jobs/view/4475448642/) — Insight Global
+### [Data Engineer](https://www.linkedin.com/jobs/view/4475468160/) — AARATECH
 - 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $70,000.00/yr - $80,000.00/yr
 - 🕒 **Posted:** 2026-10-07
 
-### [Data Science Engineer](https://www.linkedin.com/jobs/view/4476781597/) — Predictive Sales AI
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-10-07
-
-### [Quantitative Researcher](https://www.linkedin.com/jobs/view/4346975170/) — Akuna Capital
-- 📍 **Location:** Chicago, IL
+### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4452840868/) — Molex
+- 📍 **Location:** Lisle, IL
+- 💰 **Salary:** $170,000 - $250,000 per year
 - 🕒 **Posted:** 2026-10-07
