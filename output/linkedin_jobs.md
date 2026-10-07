@@ -1,14 +1,14 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-07 17:42 UTC*
+*Last updated: 2026-10-07 18:46 UTC*
 
-**2 new role(s)** since last run · 5 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4475468160/) — AARATECH
+### [Data Analyst](https://www.linkedin.com/jobs/view/4476794407/) — Robert Half
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $70,000.00/yr - $80,000.00/yr
+- 💰 **Salary:** $35.00/hr - $45.00/hr
 - 🕒 **Posted:** 2026-10-07
 
-### [Machine Learning Engineer](https://www.linkedin.com/jobs/view/4452840868/) — Molex
-- 📍 **Location:** Lisle, IL
-- 💰 **Salary:** $170,000 - $250,000 per year
+### [Data Analyst - Business Intelligence](https://www.linkedin.com/jobs/view/4476905417/) — DRW
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $100,000 to $130,000
 - 🕒 **Posted:** 2026-10-07
