@@ -1,9 +1,8 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-07 23:35 UTC*
+*Last updated: 2026-10-08 00:50 UTC*
 
-**1 new role(s)** since last run · 3 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4476931998/) — Umain
+### [Slalom Flex (Project Based)- Data Vault Data Engineer](https://www.linkedin.com/jobs/view/4463590758/) — Slalom
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $130,000–$170,000 USD
-- 🕒 **Posted:** 2026-10-07
+- 🕒 **Posted:** 2026-10-08
