@@ -1,9 +1,18 @@
 # 🟦 Indeed — Data Engineering Roles
-*Last updated: 2026-10-08 01:57 UTC*
+*Last updated: 2026-10-08 02:56 UTC*
 
-**1 new role(s)** since last run · 8 total in last 24h
+**2 new role(s)** since last run · 10 total in last 24h
 
-### [Principal Data Scientist](https://www.indeed.com/viewjob?jk=b5ee85384873284f) — Oasis Health Partners
+### [Data Engineer III](https://www.indeed.com/viewjob?jk=cf355a16840be08e) — Deloitte
+- 📍 **Location:** Arlington Heights, IL, US
+- 💰 **Salary:** $105k–$208k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
+
+### [Data Engineer III](https://www.indeed.com/viewjob?jk=344a3ab01eb31ff6) — Deloitte
 - 📍 **Location:** Chicago, IL, US
-- **Work mode:** Remote in-state eligible
+- 💰 **Salary:** $105k–$208k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-07
