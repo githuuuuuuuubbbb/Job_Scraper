@@ -1,8 +1,14 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-08 17:41 UTC*
+*Last updated: 2026-10-08 18:46 UTC*
 
-**1 new role(s)** since last run · 3 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4475974795/) — Argonne National Laboratory
-- 📍 **Location:** Lemont, IL
+### [AI Engineer](https://www.linkedin.com/jobs/view/4477439246/) — PwC
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $55,000 - $151,470
+- 🕒 **Posted:** 2026-10-08
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4477422973/) — PwC
+- 📍 **Location:** Rosemont, IL
+- 💰 **Salary:** $55,000 - $151,470
 - 🕒 **Posted:** 2026-10-08
