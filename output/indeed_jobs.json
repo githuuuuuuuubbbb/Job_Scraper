@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-08 21:03 UTC",
-  "total": 6,
+  "scraped_at": "2026-10-08 21:57 UTC",
+  "total": 5,
   "new_count": 0,
   "jobs": [
     {
@@ -24,8 +24,8 @@
     {
       "company": "Deloitte",
       "title": "Data Engineer III",
-      "location": "Chicago, IL, USA",
-      "url": "https://www.indeed.com/viewjob?jk=344a3ab01eb31ff6",
+      "location": "Arlington Heights, IL, USA",
+      "url": "https://www.indeed.com/viewjob?jk=cf355a16840be08e",
       "direct_url": "https://deloitteus.avature.net/careers/InviteToApply?jobId=369985",
       "company_url": "https://www.indeed.com/cmp/Deloitte",
       "date_posted": "2026-10-08",
@@ -52,24 +52,6 @@
       "salary_source": "",
       "salary_currency": "",
       "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Deloitte",
-      "title": "Data Engineer III",
-      "location": "Arlington Heights, IL, USA",
-      "url": "https://www.indeed.com/viewjob?jk=cf355a16840be08e",
-      "direct_url": "https://deloitteus.avature.net/careers/InviteToApply?jobId=369985",
-      "company_url": "https://www.indeed.com/cmp/Deloitte",
-      "date_posted": "2026-10-08",
-      "description": "Our Deloitte AI & Engineering team works to transform technology platforms, drive innovation, and help make a significant impact on our clients' success. You'll work alongside talented professionals reimagining and reengineering operations and processes that are critical to businesses. Your contributions can help clients improve financial performance, accelerate new digital ventures, and fuel growth through innovation.  \n  \n**Work you'll do**  \n  \nAs a Data Engineer III on the AI & Data team, you will be responsible for...  \n\n* Designing, developing, testing, and maintaining batch and near-real-time data pipelines using modern data engineering tools and frameworks\n* Building and optimizing data models, schemas, and storage solutions to support analytics, reporting, and artificial intelligence use cases\n* Integrating data from multiple structured and unstructured sources while ensuring data quality, lineage, and consistency across platforms\n* Supporting cloud-based data platform implementation activities, including deployment, monitoring, performance tuning, incident management, and issue resolution\n* Collaborating with cross-functional teams and stakeholders to translate business and technical requirements into scalable data engineering solutions and support delivery across project workstreams\n\n  \nA successful candidate would possess these skills:  \n\n* Ability to work independently and collaborate as part of a team\n* Effective written and verbal communication skills\n* Meticulous attention to detail and quality of work product\n* Ability to build and sustain professional relationships\n* Ability to lead projects or workstreams\n* Ability to manage and prioritize multiple tasks in a fast-paced and dynamic environment\n* Strong interpersonal skills and professional demeanor\n* Ability to meet deadlines\n* Ability to provide clear guidance to others\n\n  \n**The team**  \n  \nDeloitte's Government & Public Services (GPS) practice - our people, ideas, technology and outcomes - is designed for impact. Serving federal, state, & local government clients as well as public higher education institutions, our team of professionals brings fresh perspective to help clients anticipate disruption, reimagine the possible, and fulfill their mission promise.  \n  \nOur AI & Data offering provides a full spectrum of solutions for designing, developing, and operating cutting-edge Data and AI platforms, products, insights, and services. Our offerings help clients innovate, enhance and operate their data, AI, and analytics capabilities, ensuring they can mature and scale effectively.  \n  \n**Qualifications**  \n  \nRequired:  \n\n* Bachelor's degree in Computer Science, Engineering, Information Systems, Data Science, or a related technical field and 5+ years of experience developing, testing, and deploying data pipelines and extract, transform, and load (ETL) processes\n* 4+ years of experience in incident management\n* 4+ years of experience in data management\n* 4+ years of experience in data ingestion\n* 4+ years of experience leading technical teams or workstreams\n* 4+ years of experience managing stakeholder relationships\n* Active Secret security clearance with full adjudication\n* Ability to travel 0-10%, on average, based on the work you do and the clients and industries/sectors you serve.\n* Must be legally authorized to work in the United States without the need for employer sponsorship, now or at any time in the future.\n\n  \nPreferred:  \n\n* 4+ years of experience in digital transformation\n* 4+ years of experience in process optimization\n* 4+ years of experience in technical analysis\n\n  \nThe wage range for this role takes into account the wide range of factors that are considered in making compensation decisions including but not limited to skill sets; experience and training; licensure and certifications; and other business and organizational needs. The disclosed range estimate has not been adjusted for the applicable geographic differential associated with the location at which the position may be filled. At Deloitte, it is not typical for an individual to be hired at or near the top of the range for their role and compensation decisions are dependent on the facts and circumstances of each case. A reasonable estimate of the current range is $105,400 to $207,800.  \n  \nYou may also be eligible to participate in a discretionary annual incentive program, subject to the rules governing the program, whereby an award, if any, depends on various factors, including, without limitation, individual and organizational performance.",
-      "salary": "$105k–$208k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
       "is_remote": false,
       "work_arrangement": "On-site",
       "emails": "",
