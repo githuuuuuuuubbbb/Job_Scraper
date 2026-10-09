@@ -1,8 +1,26 @@
 {
-  "scraped_at": "2026-10-09 20:57 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-10-09 21:57 UTC",
+  "total": 2,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "RV Soft",
+      "title": "Data AI Engineer",
+      "location": "Chicago, IL, USA",
+      "url": "https://www.indeed.com/viewjob?jk=c7742f5d5fef58d3",
+      "direct_url": "",
+      "company_url": "https://www.indeed.com/cmp/Rv-Soft",
+      "date_posted": "2026-10-09",
+      "description": "* Experience building or operating an API gateway, reverse proxy or multi-tenant platform.\n\n* LLM platform engineering specifics: streaming and server-sent events, token accounting, prompt and response guardrails, model evaluation.\n\n* Kafka and Snowflake for audit and consumption data pipelines.\n\n* Observability depth: Prometheus and PromQL, Grafana, Loki, OpenTelemetry.\n\n* Redis or Valkey beyond basic caching — counters, TTLs, distributed rate-limiter semantics.\n\n* Experience delivering in a regulated enterprise environment with corporate proxies, private networking and strict change control.\n\nPay: $55.00 - $60.00 per hour\n\nExpected hours: 40.0 per week\n\nExperience:\n\n* Data Engineer: 10 years (Required)\n* AI: 2 years (Required)\n* Kafka: 10 years (Required)\n* OpenTelemetry: 6 years (Required)\n\nWork Location: Hybrid remote in Chicago, IL 60616",
+      "salary": "$55–$60/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    },
     {
       "company": "Scale Marketing",
       "title": "Data Engineer",
@@ -22,5 +40,24 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "RV Soft",
+      "title": "Data AI Engineer",
+      "location": "Chicago, IL, USA",
+      "url": "https://www.indeed.com/viewjob?jk=c7742f5d5fef58d3",
+      "direct_url": "",
+      "company_url": "https://www.indeed.com/cmp/Rv-Soft",
+      "date_posted": "2026-10-09",
+      "description": "* Experience building or operating an API gateway, reverse proxy or multi-tenant platform.\n\n* LLM platform engineering specifics: streaming and server-sent events, token accounting, prompt and response guardrails, model evaluation.\n\n* Kafka and Snowflake for audit and consumption data pipelines.\n\n* Observability depth: Prometheus and PromQL, Grafana, Loki, OpenTelemetry.\n\n* Redis or Valkey beyond basic caching — counters, TTLs, distributed rate-limiter semantics.\n\n* Experience delivering in a regulated enterprise environment with corporate proxies, private networking and strict change control.\n\nPay: $55.00 - $60.00 per hour\n\nExpected hours: 40.0 per week\n\nExperience:\n\n* Data Engineer: 10 years (Required)\n* AI: 2 years (Required)\n* Kafka: 10 years (Required)\n* OpenTelemetry: 6 years (Required)\n\nWork Location: Hybrid remote in Chicago, IL 60616",
+      "salary": "$55–$60/hr",
+      "salary_source": "direct_data",
+      "salary_currency": "USD",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
