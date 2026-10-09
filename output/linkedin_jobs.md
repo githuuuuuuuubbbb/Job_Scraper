@@ -1,19 +1,18 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-09 20:40 UTC*
+*Last updated: 2026-10-09 21:40 UTC*
 
 **3 new role(s)** since last run · 7 total in last 1h
 
-### [Data Engineer - Data Modeling](https://www.linkedin.com/jobs/view/4476858172/) — Request Technology, LLC
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $130,000.00/yr - $166,000.00/yr
+### [Assoc Data Scientist](https://www.linkedin.com/jobs/view/4477877142/) — Exelon
+- 📍 **Location:** Villa Park, IL
 - 🕒 **Posted:** 2026-10-09
 
-### [Cloud Data Analyst](https://www.linkedin.com/jobs/view/4477854599/) — U.S. Bank
+### [Workday Data Analyst](https://www.linkedin.com/jobs/view/4476855360/) — Randstad Digital Americas
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $98,175.00 - $115,500.00
+- 💰 **Salary:** $45.55/hr - $55.55/hr
 - 🕒 **Posted:** 2026-10-09
 
-### [Football Sports Performance Data Analyst](https://www.linkedin.com/jobs/view/4477847875/) — Northwestern University
-- 📍 **Location:** Evanston, IL
-- 💰 **Salary:** $51,350- $53,000 per year
+### [Physical Data Scientist – Statistical Analysis of Experimental Data](https://www.linkedin.com/jobs/view/4451946377/) — Argonne National Laboratory
+- 📍 **Location:** Lemont, IL
+- 💰 **Salary:** $94,486 - $147,399
 - 🕒 **Posted:** 2026-10-09
