@@ -1,19 +1,14 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-08 23:37 UTC*
+*Last updated: 2026-10-09 00:53 UTC*
 
-**3 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 4 total in last 1h
 
-### [Capgemini Invent, Consultant, AI Engineer](https://www.linkedin.com/jobs/view/4477491223/) — Capgemini Invent
+### [AI Engineer](https://www.linkedin.com/jobs/view/4477600062/) — PwC
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $110,000-$137,500
-- 🕒 **Posted:** 2026-10-08
+- 💰 **Salary:** $55,000 - $151,470
+- 🕒 **Posted:** 2026-10-09
 
-### [Quantitative Analyst](https://www.linkedin.com/jobs/view/4474853669/) — Milliman
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $68,080 - $109,020
-- 🕒 **Posted:** 2026-10-08
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4477473958/) — CDW
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $65,000-$110,200
-- 🕒 **Posted:** 2026-10-08
+### [AI Engineer](https://www.linkedin.com/jobs/view/4477493469/) — PwC
+- 📍 **Location:** Rosemont, IL
+- 💰 **Salary:** $55,000 - $151,470
+- 🕒 **Posted:** 2026-10-09
