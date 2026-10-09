@@ -1,18 +1,7 @@
 {
-  "scraped_at": "2026-10-09 02:38 UTC",
-  "total": 1,
+  "scraped_at": "2026-10-09 03:40 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "TricorBraun",
-      "title": "Data Analyst Associate",
-      "location": "Greater Chicago Area",
-      "url": "https://www.linkedin.com/jobs/view/4477614249/",
-      "date_posted": "2026-10-09",
-      "salary": "",
-      "ats": "LinkedIn",
-      "description": "Duties And Responsibilities\n\nIndependently apply Item Data Governance standards to assigned item records and identify when data exceptions or policy questions require escalation\nManage the collection, organization, validation, and maintenance of product and item data within company systems\nCreate and maintain item records while helping ensure data accuracy and completeness\nIndependently prioritize and process product information requests, using judgment to resolve incomplete, inconsistent, or conflicting data\nLearn and become proficient in ERP and PIM systems\nServe as a primary point of contact for assigned product data requests, coordinating directly with suppliers and internal stakeholders\nSupport inventory lifecycle activities by assisting with item status updates and data maintenance\nEvaluate product documentation, and item attributes to determine whether item data is complete and accurate\nHelp maintain product information standards for internal and external catalogs\nSupport internal customer requests and departmental projects\nAnalyze recurring data issues or discrepancies, recommend resolution steps, and escalate complex exceptions as\nMake recommendations to improve data accuracy, consistency, and completeness across systems\nIdentify process gaps or recurring data-quality issues and propose corrective actions appropriate\nPerform other duties as assigned\n\nEducation And Experience\n\nBachelor's degree or equivalent combination of education and related experience\n0-2 years of experience in product data management, data analysis, product information management, supply chain, or related business systems experience preferred\nExperience working with large data sets and Microsoft Office applications preferred\nExposure to Power BI, D365 ERP or PIM systems is a plus but not required\n\nShow more\n\nShow less\n\nSeniority level\n\nNot Applicable\n\nEmployment type\n\nFull-time\n\nIndustries\n\nPackaging and Containers Manufacturing"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
