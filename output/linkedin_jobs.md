@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-10 02:38 UTC*
+*Last updated: 2026-10-10 03:39 UTC*
 
-**1 new role(s)** since last run · 2 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-### [Cloud Data Analyst](https://www.linkedin.com/jobs/view/4477854599/) — U.S. Bank
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $98,175.00 - $115,500.00
+### [Physical Data Scientist – Statistical Analysis of Experimental Data](https://www.linkedin.com/jobs/view/4451946377/) — Argonne National Laboratory
+- 📍 **Location:** Lemont, IL
+- 💰 **Salary:** $94,486 - $147,399
 - 🕒 **Posted:** 2026-10-10
