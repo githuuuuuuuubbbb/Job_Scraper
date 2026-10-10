@@ -1,6 +1,9 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-10 15:47 UTC*
+*Last updated: 2026-10-10 16:51 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Staff Product Analyst (Workday Payroll, Absence & Time Tracking)](https://www.linkedin.com/jobs/view/4458409671/) — Okta
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $148,000 USD - $203,500 USD
+- 🕒 **Posted:** 2026-10-10
