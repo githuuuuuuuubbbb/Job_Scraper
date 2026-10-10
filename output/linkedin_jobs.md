@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-10 16:51 UTC*
+*Last updated: 2026-10-10 17:35 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**1 new role(s)** since last run · 2 total in last 1h
 
-### [Staff Product Analyst (Workday Payroll, Absence & Time Tracking)](https://www.linkedin.com/jobs/view/4458409671/) — Okta
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $148,000 USD - $203,500 USD
+### [Network Fulfilment Data Scientist](https://www.linkedin.com/jobs/view/4475624492/) — Ulta Beauty
+- 📍 **Location:** Bolingbrook, IL
+- 💰 **Salary:** $90,800.00 - $126,000.00
 - 🕒 **Posted:** 2026-10-10
