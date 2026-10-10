@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-10 03:57 UTC",
-  "total": 2,
+  "scraped_at": "2026-10-10 15:55 UTC",
+  "total": 1,
   "new_count": 0,
   "jobs": [
     {
@@ -16,24 +16,6 @@
       "salary_source": "direct_data",
       "salary_currency": "USD",
       "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Scale Marketing",
-      "title": "Data Engineer",
-      "location": "Chicago, IL, USA",
-      "url": "https://www.indeed.com/viewjob?jk=691cad96e500ec86",
-      "direct_url": "https://www.scale-marketing.com/careers/data-engineer/",
-      "company_url": "https://www.indeed.com/cmp/Scale-Marketing-2",
-      "date_posted": "2026-10-09",
-      "description": "We are looking for a savvy Data Engineer to join our growing team of analytics experts. The hire will be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up. The Data Engineer will support our data analysts and data scientists on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects. They must be self-directed and comfortable supporting the data needs of multiple teams, systems and products. The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives.\n\n**Responsibilities**\n--------------------\n\n* Create and maintain optimal data pipeline architecture,\n* Assemble large, complex data sets that meet functional / non-functional business requirements.\n* Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.\n* Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and ‘big data’ technologies.\n* Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.\n* Work with stakeholders including the Partner, Client and Data teams to assist with data- related technical issues and support their data infrastructure needs.\n* Keep our data separated and secure across national boundaries through multiple data centers.\n* Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader.\n* Work with data and analytics experts to strive for greater functionality in our data systems.\n\n**Qualifications**\n------------------\n\n* Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.\n* Experience building and optimizing ‘big data’ data pipelines, architectures and data sets.\n* Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.\n* Strong analytic skills related to working with unstructured datasets.\n* Build processes supporting data transformation, data structures, metadata, dependency and workload management.\n* A successful history of manipulating, processing and extracting value from large disconnected datasets.\n* Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores.\n* Strong project management and organizational skills.\n* Experience supporting and working with cross-functional teams in a dynamic environment.\n* We are looking for a candidate with 5+ years of experience in a Data Engineer role, who has attained a Graduate degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field.\n* Experience with the following big data tools: Apache Hadoop, Apache Hive, Apache Spark, Apache Pig, etc.\n* Experience with at least three relational SQL and/or NoSQL databases: MongoDB, HBase, Oracle, SQL Server, Cassandra, Neo4j, Redis, and/or Riak.\n* Experience with any data pipeline and workflow management tools: Apache Kafka and/or Apache Spark, Azure DevOps, AWS Data Pipeline.\n* Experience with at least one cloud service: AWS and/or Microsoft Azure\n* Experience with at least one stream-processing system: AWS Kinesis, Azure Stream Analytics, and/or Apache Flink, etc.\n* Experience with at least three of the following object-oriented/object function/operating system scripting languages: Python, Java, Scala, C++, Linux/Unix, etc.\n\n**About Scale**\n---------------\n\nScale Marketing is a collective of professionals who bring unique business and media experience together to drive client success.\n\nWe dive into our client’s customer data and historic media buys to optimize strategy. We buy media strategically and efficiently, and we produce creative work designed to meet specific KPIs. With robust data and analytics expertise, Scale is constantly testing, analyzing, updating, and optimizing.\n\nWe attribute our success to the way we treat our clients and each other, and we are always looking for subject matter experts to join our team.\n\nProud to be awarded designation by Crain’s Chicago Business as one of the 2021 Best Places to Work in Chicago.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
       "is_remote": false,
       "work_arrangement": "On-site",
       "emails": "",
