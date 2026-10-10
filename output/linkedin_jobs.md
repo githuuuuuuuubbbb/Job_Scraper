@@ -1,9 +1,9 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-10 01:40 UTC*
+*Last updated: 2026-10-10 02:38 UTC*
 
 **1 new role(s)** since last run · 2 total in last 1h
 
-### [Associate AI Engineer](https://www.linkedin.com/jobs/view/4476868964/) — Worldpac
-- 📍 **Location:** Oakbrook Terrace, IL
-- 💰 **Salary:** USD $83,000.00 - USD $111,000.00 /Yr
+### [Cloud Data Analyst](https://www.linkedin.com/jobs/view/4477854599/) — U.S. Bank
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $98,175.00 - $115,500.00
 - 🕒 **Posted:** 2026-10-10
