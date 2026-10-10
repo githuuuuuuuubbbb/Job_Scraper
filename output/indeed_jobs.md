@@ -1,5 +1,5 @@
 # 🟦 Indeed — Data Engineering Roles
-*Last updated: 2026-10-10 17:54 UTC*
+*Last updated: 2026-10-10 18:57 UTC*
 
 **0 new role(s)** since last run · 1 total in last 24h
 
