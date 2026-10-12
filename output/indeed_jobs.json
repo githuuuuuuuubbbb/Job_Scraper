@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-12 17:16 UTC",
+  "scraped_at": "2026-10-12 18:09 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Visibol",
@@ -40,24 +40,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "FINRA",
-      "title": "Quantitative Analyst, Advanced Analytics",
-      "location": "Chicago, IL, USA",
-      "url": "https://www.indeed.com/viewjob?jk=f3d747a76fd0aa37",
-      "direct_url": "https://finra.wd1.myworkdayjobs.com/FINRA/job/Rockville-MD-Job-Posting/Senior-Principal-Research-Analyst--Advanced-Analytics_R-010303",
-      "company_url": "https://www.indeed.com/cmp/Finra",
-      "date_posted": "2026-10-12",
-      "description": "The Quantitative Analyst in Regulatory Operations Analytics is responsible for the planning and execution of analytics projects throughout their lifecycle. This includes defining the approach, having the ability to scope and drive analytics with the appropriate quantitative methods, and working closely with the business to ensure project objectives and goals are met. This role works across the business to promote the use of advanced analytics to solve business problems.\n\n**Essential Job Functions:**\n\n* Promote the use of advanced analytics and associated insights for the consumption of internal and external stakeholders, including senior level management across the organization.\n* Leads business engagement activities including soliciting use cases, user feedback, training, etc.\n* Contribute to the development and enhancement of FINRA’s cross-market surveillance program.\n* Work across delivery teams to deliver analytics capabilities that solve critical business problems.\n* Drive availability of relevant data, tools, and infrastructure to facilitate for experimental and development purposes.\n* Provide analytics-based research and respond to ad hoc requests in support of business objectives.\n* Define approach for data collection for building analytics-based systems, transformations and extending company’s data with third party sources of information when needed.\n* Devise and implement methods for automation of all parts of the predictive pipeline to achieve regulatory efficiencies.\n* Actively participate in the completion of the enterprise-wide strategic plan for expanding analytics capabilities that support regulatory programs to improve efficiency and effectiveness.\n\n* Demonstration of FINRA’s values.\n* Collaboration, both in-person and virtually, in furtherance of FINRA’s mission of investor protection and market integrity.\n\n**Other Responsibilities:**\n\n* Mentor other Research Analysts on the team and within FINRA on methodologies and best practices.\n* Maintain essential skills by attending training programs, associated conferences, and continued education in advanced analytics, software development, artificial intelligence, and machine learning.\n\n**Education/Experience Requirements:**\n\n* Bachelor’s degree in STEM, Business, or similar quantitative discipline, and six (6) or more years of related work experience in Data Science, Engineering or Software development; or an equivalent combination of education and experience.\n* Experience in advanced analytics using machine learning, data mining, and natural language processing, preferred.\n* Familiarity with Big Data processing and platforms desirable.\n* Strong knowledge in at least one of the following programming languages: Python, R, SQL, or SCALA.\n* Strong problem solving and analytical skills.\n* Excellent interpersonal and communication skills.\n* Ability to work independently on complex and prolonged projects.\n\n**Working Conditions:**\n\n* Hybrid work environment, with defined in-person presence requirements. Occasional travel and extended hours may be required.\n\nFor work that is performed in Los Angeles and San Francisco, CA, CO, CT, IL, PA, MA, MD, VA, WA, DC, NY, NJ, WA please refer to the chart below for the salary range for the corresponding location. FINRA complies with all state and local pay transparency laws and regulations requiring the disclosure of salary ranges for the position. In addition to location, actual compensation is based on various factors, including but not limited to, the candidate’s skill set, level of experience, education, and market considerations.\n\nLos Angeles, CA: $148,000 - $222,000\n\nSan Francisco, CA: $154,000 - $232,000\n\nBoston, MA: $131,200 - $238,300\n\nChicago, IL: $125,900 - $228,000\n\nDenver, CO: $114,200 - $207,200\n\nJericho, NY: $131,200 - $238,300\n\nJersey City, NJ: $137,000- $248,700\n\nPhiladelphia, PA: $125,900 - $228,000\n\nNew York, NY: $137,000 - $248,700\n\nRockville, MD: $131,200 - $238,300\n\nTysons, VA: $131,200 - $238,300\n\nWashington, DC: $131,200 - $238,300\n\nWoodbridge, NJ: $131,200 - $238,300\n\nConnecticut State: $114,200 - $248,700\n\nWashington State: $114,200 - $248,700\n\n#LI-Hybrid\n\n**To be considered for this position, please submit an application.** **Applications are accepted on an ongoing basis.**\n\n*The information provided above has been designed to indicate the general nature and level of work of the position. It is not a comprehensive inventory of all duties, responsibilities and qualifications required.*\n\n***Please note: If the “Apply Now” button on a job board posting does not take you directly to the FINRA Careers site, enter www.finra.org/careers into your browser to reach our site directly.***\n\nEmployees may be eligible for a discretionary bonus in addition to base pay. Non-exempt employees are also eligible for overtime pay in accordance with federal, state, or local law. As part of its dedication to employee wellness, FINRA provides comprehensive health, dental and vision insurance. Additional insurance includes basic life, accidental death and dismemberment, supplemental life, spouse/domestic partner and dependent life, and spouse/domestic partner and dependent accidental death and dismemberment, short- and long-term disability, long-term care, business travel accident, disability and legal. FINRA offers immediate participation and vesting in a 401(k) plan with company match and eligibility for participation in an additional FINRA-funded retirement contribution, tuition reimbursement, commuter benefits, and other benefits that support employee wellness, such as adoption assistance, backup family care, surrogacy benefits, employee assistance, and wellness programs.\n\nTime Off and Paid Leave\\*\n\nFINRA encourages its employees to focus on their health and wellness in many ways, including through a generous time-off program starting at 15 days of paid time off (increasing with years of service, up to 25 days), 5 personal days, and 9 sick days, unless otherwise required by law (all pro-ra",
-      "salary": "$114k–$249k/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "EmployeeRelations@FINRA.org",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
