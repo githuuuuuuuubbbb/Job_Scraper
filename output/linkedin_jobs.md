@@ -1,5 +1,5 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-12 19:28 UTC*
+*Last updated: 2026-10-12 20:18 UTC*
 
 **0 new role(s)** since last run · 0 total in last 1h
 
