@@ -1,8 +1,13 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-13 22:26 UTC*
+*Last updated: 2026-10-13 23:36 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [Quantitative Analyst](https://www.linkedin.com/jobs/view/4479027878/) — Exelon
-- 📍 **Location:** Villa Park, IL
+### [Client Insights Analyst](https://www.linkedin.com/jobs/view/4476488658/) — Circana
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $60,000-$75,000
+- 🕒 **Posted:** 2026-10-13
+
+### [Delivery AI Product Analyst, United States - X Delivery](https://www.linkedin.com/jobs/view/4478174648/) — BCG X
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-10-13
