@@ -1,14 +1,19 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-14 19:25 UTC*
+*Last updated: 2026-10-14 20:14 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**3 new role(s)** since last run · 5 total in last 1h
 
-### [Data Engineer 4](https://www.linkedin.com/jobs/view/4470665395/) — Capital One
+### [Data Engineer 5](https://www.linkedin.com/jobs/view/4479579862/) — Capital One
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $179,400 - $204,700
+- 💰 **Salary:** $209,000 - $238,500
 - 🕒 **Posted:** 2026-10-14
 
-### [Associate Principal, Data Analytics Engineering](https://www.linkedin.com/jobs/view/4462046258/) — The Options Clearing Corporation (OCC)
+### [Data Scientist](https://www.linkedin.com/jobs/view/4479583671/) — Expo Experts
 - 📍 **Location:** Greater Chicago Area
-- 💰 **Salary:** $124,400-$140,500
+- 💰 **Salary:** $95k to $154k
+- 🕒 **Posted:** 2026-10-14
+
+### [Data Engineer](https://www.linkedin.com/jobs/view/4479599002/) — Harrison Street Asset Management
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $125,000 - $200,000
 - 🕒 **Posted:** 2026-10-14
