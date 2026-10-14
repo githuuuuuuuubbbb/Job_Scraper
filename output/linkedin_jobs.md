@@ -1,23 +1,13 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-14 16:28 UTC*
+*Last updated: 2026-10-14 16:59 UTC*
 
-**4 new role(s)** since last run · 4 total in last 1h
+**2 new role(s)** since last run · 6 total in last 1h
 
-### [Data Engineer](https://www.linkedin.com/jobs/view/4476686201/) — SoTalent
+### [Databricks Architect](https://www.linkedin.com/jobs/view/4479548995/) — Apetan Consulting LLC
 - 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-10-14
 
-### [Data Scientist I](https://www.linkedin.com/jobs/view/4470638301/) — Early Warning
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $97,000 - $124,000
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4479544728/) — Clinisoltech
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $60,000.00/yr - $90,000.00/yr
-- 🕒 **Posted:** 2026-10-14
-
-### [Data Scientist - Model Governance](https://www.linkedin.com/jobs/view/4460246560/) — TransUnion
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $78,750.00 - $131,250 annually
+### [Statistician Researcher - Chicago Loop Office](https://www.linkedin.com/jobs/view/4450378774/) — NORC at the University of Chicago
+- 📍 **Location:** Greater Chicago Area
+- 💰 **Salary:** $130,000 to $140,000
 - 🕒 **Posted:** 2026-10-14
