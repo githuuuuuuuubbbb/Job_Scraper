@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-13 23:37 UTC",
+  "scraped_at": "2026-10-14 00:30 UTC",
   "total": 3,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "EAPPS TECH LLC dba Magicforce",
@@ -58,24 +58,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "EAPPS TECH LLC dba Magicforce",
-      "title": "ETL Tester with Databricks Experience",
-      "location": "Chicago, IL, USA",
-      "url": "https://www.indeed.com/viewjob?jk=7b3347ae5924df47",
-      "direct_url": "https://EAPPSTECH.oorwin.ai/#/careers/index.html/job/details/55a3fd5f8b7323fdf6db2822775065a0b4ee0824?source=indeed&postedby=9",
-      "company_url": "",
-      "date_posted": "2026-10-13",
-      "description": "**Mandatory skills**\n\n* 10+ years in data / ETL testing, including strategy ownership on at least one large migration or re-platforming programme\n\n* Proven reconciliation and equivalence testing — demonstrating that a rebuilt pipeline produces output equivalent to a legacy one, and defending that conclusion to stakeholders\n\n* Expert SQL — complex analytical validation queries written independently against unfamiliar schemas Databricks / PySpark for validation at data volume Python for test automation and harness development\n\n* Data quality and test automation frameworks — Great Expectations, dbt tests, pytest or equivalent Test strategy authorship — coverage models, risk-based prioritisation, entry and exit criteria, defect taxonomy multi-target validation across at least two of Databricks, SQL Server, Vertica or comparable\n\n* Experience testing PHI-scoped healthcare data, including de-identified or synthetic test data Defect management and reporting in Azure Boards Team leadership — setting standards and reviewing others//' coverage\n\n* Ability to state an uncomfortable quality position to senior stakeholders and hold it Preferred Experience evaluating LLM or GenAI systems — MLflow, LangSmith, Weights & Biases or equivalent; LLM-as-judge design and its failure modes Applied statistics — sampling design, confidence intervals, significance testing, calibration measurement Epic EHR data experience\n\n* Caboodle or Clarity Clinical coding systems: ICD, CPT, SNOMED, LOINC Multi-tenant data isolation testing Experience testing code- or SQL-generation systems Prior work where test evidence was presented directly to client executives\n\n* Software Design and Best Practices: Apply software design principles such as SOLID and Domain-Driven Design.\n\n* Understand code patterns and practices.\n\n* Maintain currency in technical skills and industry trends.\n\n  \n\n**Roles and Responsibilities: -**\n\n* We are building AI agents that generate the extraction queries and transformation logic instead plus the Workbench through which humans review and approve everything they produce.\n* The agents emit metadata; the client//'s existing data platform executes it. What you//'ll do Own test strategy and reconciliation methodology Define the equivalence standard: what must match exactly, what may vary within tolerance, and at which layer each applies Design source-to-target validation across the redesigned path — raw ingestion, consolidated transformation, domain refined\n* Establish risk-based prioritisation; the schedule does not permit exhaustive coverage of hundreds of tables Author the Test Strategy and Test Plan for review with the client in Phase 2 Own agent evaluation Build and maintain a golden reference set from existing production extracts, validated with the Epic SME, with strict separation between evaluation data and anything used to develop or tune the agents Stand up the evaluation harness in MLflow — scoring runs, versioning, candidate comparison\n* Define and report the measures that matter mapping precision and recall, override rate, confidence calibration, run-to-run consistency, escalation correctness and cost per case Operate the regression gate — no prompt, skill or model change is promoted without passing evaluation.\n* A prompt change can silently degrade quality with no data-level symptom Characterise how agents fail, not just how often: hallucinated tables, plausible-but-wrong column selection, silent omission of required fields, mis-selected join grain.\n* Own the automated regression harness Automated comparison of new-path output against current production extracts Row counts, aggregate reconciliation, field-level comparison, type and precision validation, null and duplicate profiling, referential integrity Repeatable execution so every agent revision can be re-validated cheaply\n* Design the control-critical test suites Member, health-system and facility isolation. Facility mapping is moving downstream, creating real regression risk against the guarantee that one member cannot see another member//'s data.\n* A cross-member leak is the highest-severity failure mode on this engagement Contract-scope validation.\n* Data-sharing contracts restrict access at facility, column and product level. Verifying that generated queries stay inside permitted scope is a testable control with legal consequences if missed Acquisition cost validation.\n* Confirm optimised queries touch fewer source tables than baseline and that facility consolidation genuinely works Lead and report Direct two QA engineers; set standards, review coverage, own the defect taxonomy\n* Confirm downstream compatibility across Databricks, SQL Server and Vertica Produce evidence packs suitable for client executive review, and defend methodology, sample sizes and statistical claims under scrutiny.",
-      "salary": "$50–$60/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
