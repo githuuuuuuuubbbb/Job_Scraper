@@ -1,9 +1,16 @@
 # 🔥 LinkedIn — Data Engineering Roles
-*Last updated: 2026-10-14 02:01 UTC*
+*Last updated: 2026-10-14 03:55 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**3 new role(s)** since last run · 3 total in last 1h
 
-### [Data Scientist (Masters)](https://www.linkedin.com/jobs/view/4479237760/) — Alignerr
+### [AI Engineer, Forward Deployed (Claude)](https://www.linkedin.com/jobs/view/4478402270/) — Collectiv
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $40.00/hr - $80.00/hr
+- 🕒 **Posted:** 2026-10-14
+
+### [AI Engineer, Forward Deployed (Copilot and Azure AI Foundry)](https://www.linkedin.com/jobs/view/4478190873/) — Collectiv
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-10-14
+
+### [Clinical Data Analyst | MS Graduates – 2026 | F-1 / OPT / STEM OPT](https://www.linkedin.com/jobs/view/4478116117/) — DataBridge Talent Solutions
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-10-14
